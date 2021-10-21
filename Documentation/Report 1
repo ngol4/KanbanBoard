@@ -1,0 +1,21 @@
+1-3 lines description of what classes have been added or updated and what functionality have been implemented in them (even if they were not ready yet).
+What methods / functionality have been tested so far in classes so that they work properly?
+What possibly difficult errors have occurred and have they been resolved?
+What has been the workload used during this time with some 5 hours accuracy.
+Whether you are ahead or lagging behind what you presented in the project plan (roughly at this phase).
+
+
+
+
+The classes Board, Card, and KanbanBoard have been added with some basic functionalities such as remove/add card/board, edit card, return/archive card, filter by tag.
+I think I will only need to implement the time-tracking function to make it complete.
+
+I have tested functionality of all methods I have implemented in the folder Test.
+
+Some difficulties for me are about the GUi parts. I have no experience in GUI before so I have to research a lot 
+and I have no idea where to start.  
+
+The workload is about 20 hours.
+
+
+I think I am at the right point in my project plan. I plan to finish the basic GUI at the end of this month.

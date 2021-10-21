@@ -1,0 +1,47 @@
+[
+{
+"boardname": "Week 1",
+"boardID": "zY3Ky6",
+"cardList":[
+{
+ "name": "Math 1",
+ "tag": "Urgent",
+ "text": "Do HW",
+ "taskStatus": "toDo",
+ "cardID": "B29NfxLD" ,
+ "inBoardID": "zY3Ky6",
+ "dateDeadLine" : "2021-04-28"
+}
+]
+},
+{
+"boardname": "Week 2",
+"boardID": "LFOnGF",
+"cardList":[
+{
+ "name": "Programming 2",
+ "tag": "Urgent",
+ "text": "Do round 9",
+ "taskStatus": "toDo",
+ "cardID": "cMw4Vqwi" ,
+ "inBoardID": "LFOnGF",
+ "dateDeadLine" : "2021-04-28"
+}
+]
+},
+{
+"boardname": "Week 3",
+"boardID": "2jbKKx",
+"cardList":[
+{
+ "name": "Databases",
+ "tag": "Urgent",
+ "text": "DO HW",
+ "taskStatus": "toDo",
+ "cardID": "Og0U79KA" ,
+ "inBoardID": "2jbKKx",
+ "dateDeadLine" : "2021-04-28"
+}
+]
+}
+]
