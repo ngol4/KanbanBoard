@@ -1,5 +1,5 @@
 # KanbanBoard
-=
+
 Construct a Trello-like application that would allow users to create and use kanban boards.
 
 Requirements:
@@ -12,7 +12,7 @@ Requirements:
 - Your program supports multiple boards for a single user.
 
 Libraries:
-Scalatest
-ScalaFX 
-Circe
+- Scalatest
+- ScalaFX 
+- Circe
 
